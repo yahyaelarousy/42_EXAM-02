@@ -30,9 +30,6 @@ Vérifie si un entier est une puissance de 2.
 
 ## Prochaines étapes
 
-- Corriger les fonctions partiellement réussies pour obtenir un score parfait.
-- Tester avec plusieurs cas pour s’assurer de la robustesse.
-- Continuer la pratique régulière pour améliorer la rapidité et la précision.
 
 ---
 
